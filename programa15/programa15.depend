@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1406760722 source:c:\users\acer\documents\github\alejandrocortes 2014\programa15\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1406761223 source:c:\users\acer\documents\github\alejandrocortes 2014\codeblocks-clase\programa15\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

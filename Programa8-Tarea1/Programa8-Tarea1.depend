@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\acer\documents\github\alejandrocortes 2014\programa8-tarea1\main.cpp
+	<iostream>
+
+1406171861 source:c:\users\acer\documents\github\alejandrocortes 2014\codeblocks\programa8-tarea1\main.cpp
+	<iostream>
+	<stdlib.h>
+
