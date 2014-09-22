@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="programa1-arreglos/programa1-arreglos.cbp" />
+		<Project filename="programa2-arreglos/programa2-arreglos.cbp" />
+		<Project filename="programa3-arreglos/programa3-arreglos.cbp" />
+		<Project filename="prgrama4-arreglos+estructura/prgrama4-arreglos+estructura.cbp" />
+		<Project filename="programa5-ejercicio/programa5-ejercicio.cbp" />
+		<Project filename="practica arreglos-estructura/practica arreglos-estructura.cbp" />
+		<Project filename="prueba4-2parcial/prueba4-2parcial.cbp" />
+		<Project filename="programa6/programa6.cbp" />
+		<Project filename="programa7-arreglosbidimensionales/programa7-arreglosbidimensionales.cbp" />
+		<Project filename="programa8/programa8.cbp" />
+		<Project filename="prueba#5/prueba#5.cbp" />
+		<Project filename="tarea-semana7/tarea-semana7.cbp" />
+		<Project filename="programa9- cadena/programa9- cadena.cbp" />
+		<Project filename="programa10- cadena/programa10- cadena.cbp" />
+		<Project filename="programa11- cadena/programa11- cadena.cbp" />
+		<Project filename="programa12-cadena/programa12-cadena.cbp" />
+		<Project filename="programa13- cadena,string/programa13- cadena,string.cbp" />
+		<Project filename="tarea8- minesweeper/tarea8- minesweeper.cbp" />
+		<Project filename="test minas/test minas.cbp" />
+		<Project filename="progrma14-apuntadores/progrma14-apuntadores.cbp" />
+		<Project filename="programa15-memoriadinamica/programa15-memoriadinamica.cbp" />
+		<Project filename="prueba-ultima/prueba-ultima.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

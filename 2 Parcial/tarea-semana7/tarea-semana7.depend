@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410675588 source:c:\users\acer\documents\github\programacion2\2 parcial\tarea-semana7\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

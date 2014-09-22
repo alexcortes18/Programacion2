@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1409868909 source:c:\users\acer\documents\github\programacion2\2 parcial\programa6\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+

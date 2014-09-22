@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409662606 source:c:\users\acer\documents\github\programacion2\2 parcial\programa5-ejercicio\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

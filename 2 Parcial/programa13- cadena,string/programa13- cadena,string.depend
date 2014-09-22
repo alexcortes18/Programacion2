@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410624243 source:c:\users\acer\documents\github\programacion2\2 parcial\programa13- cadena,string\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

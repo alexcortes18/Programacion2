@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410017228 source:c:\users\acer\documents\github\programacion2\2 parcial\ejemplo x-o\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
